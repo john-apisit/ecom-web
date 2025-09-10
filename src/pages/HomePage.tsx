@@ -64,7 +64,6 @@ const HomePage: React.FC = () => {
     }, 1000);
   };
 
-  const featuredProperties = properties.filter(p => p.featured).slice(0, 6);
   const recentProperties = properties.slice(0, 9);
   const featuredLocations = locations.filter(l => l.featured);
   const recentBlogPosts = blogPosts.slice(0, 3);
