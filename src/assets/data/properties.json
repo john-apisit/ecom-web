@@ -1,0 +1,186 @@
+[
+  {
+    "id": "1",
+    "title": "Beverly Hills Estate",
+    "description": "Beautiful luxury house with modern amenities and stunning views. Perfect for families looking for comfort and style.",
+    "price": 230000,
+    "type": "house",
+    "status": "for-sale",
+    "bedrooms": 6,
+    "bathrooms": 3,
+    "area": 720,
+    "location": {
+      "address": "123 Main Street",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90210",
+      "coordinates": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop&crop=center"
+    ],
+    "amenities": ["Air Conditioning", "Swimming Pool", "Central Heating", "WiFi"],
+    "agentId": "1",
+    "featured": true,
+    "createdAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Downtown Chicago Loft",
+    "description": "Spacious family apartment in a great neighborhood with excellent schools nearby.",
+    "price": 180000,
+    "type": "apartment",
+    "status": "for-sale",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 1200,
+    "location": {
+      "address": "456 Oak Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601",
+      "coordinates": {
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop&crop=center"
+    ],
+    "amenities": ["Air Conditioning", "Laundry Room", "WiFi", "TV Cable"],
+    "agentId": "2",
+    "featured": false,
+    "createdAt": "2024-01-14T14:30:00Z",
+    "updatedAt": "2024-01-14T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Pacific Heights Villa",
+    "description": "Elegant villa with private garden and modern interior design. Perfect for luxury living.",
+    "price": 450000,
+    "type": "villa",
+    "status": "for-sale",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 2000,
+    "location": {
+      "address": "789 Pine Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94102",
+      "coordinates": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&h=600&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800&h=600&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop&crop=center"
+    ],
+    "amenities": ["Swimming Pool", "Central Heating", "Gym", "Alarm", "WiFi"],
+    "agentId": "3",
+    "featured": true,
+    "createdAt": "2024-01-13T09:15:00Z",
+    "updatedAt": "2024-01-13T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Biscayne Bay Penthouse",
+    "description": "Modern luxury condo in downtown with city views and premium amenities.",
+    "price": 320000,
+    "type": "condo",
+    "status": "for-rent",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 1500,
+    "location": {
+      "address": "321 Downtown Plaza",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33101",
+      "coordinates": {
+        "lat": 25.7617,
+        "lng": -80.1918
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop&crop=center"
+    ],
+    "amenities": ["Air Conditioning", "Gym", "WiFi", "TV Cable", "Dryer"],
+    "agentId": "4",
+    "featured": false,
+    "createdAt": "2024-01-12T16:45:00Z",
+    "updatedAt": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Galleria District Residence",
+    "description": "Contemporary family home with open floor plan and energy-efficient features.",
+    "price": 275000,
+    "type": "house",
+    "status": "for-sale",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 1800,
+    "location": {
+      "address": "654 Elm Street",
+      "city": "Houston",
+      "state": "TX",
+      "zipCode": "77001",
+      "coordinates": {
+        "lat": 29.7604,
+        "lng": -95.3698
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop&crop=center"
+    ],
+    "amenities": ["Air Conditioning", "Central Heating", "Laundry Room", "WiFi", "Refrigerator"],
+    "agentId": "1",
+    "featured": true,
+    "createdAt": "2024-01-11T11:20:00Z",
+    "updatedAt": "2024-01-11T11:20:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Rittenhouse Square Studio",
+    "description": "Charming apartment perfect for young professionals or couples.",
+    "price": 120000,
+    "type": "apartment",
+    "status": "for-rent",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 800,
+    "location": {
+      "address": "987 Maple Avenue",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zipCode": "19101",
+      "coordinates": {
+        "lat": 39.9526,
+        "lng": -75.1652
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop&crop=center"
+    ],
+    "amenities": ["Air Conditioning", "WiFi", "Microwave", "Washer"],
+    "agentId": "2",
+    "featured": false,
+    "createdAt": "2024-01-10T13:10:00Z",
+    "updatedAt": "2024-01-10T13:10:00Z"
+  }
+]

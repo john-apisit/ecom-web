@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "New York City",
+    "state": "NY",
+    "propertiesCount": 203,
+    "averagePrice": 850000,
+    "image": "/images/locations/new-york.jpg",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Los Angeles",
+    "state": "CA",
+    "propertiesCount": 307,
+    "averagePrice": 720000,
+    "image": "/images/locations/los-angeles.jpg",
+    "featured": false
+  },
+  {
+    "id": "3",
+    "name": "San Francisco",
+    "state": "CA",
+    "propertiesCount": 409,
+    "averagePrice": 1200000,
+    "image": "/images/locations/san-francisco.jpg",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "name": "Miami",
+    "state": "FL",
+    "propertiesCount": 145,
+    "averagePrice": 650000,
+    "image": "/images/locations/miami.jpg",
+    "featured": false
+  },
+  {
+    "id": "5",
+    "name": "Chicago",
+    "state": "IL",
+    "propertiesCount": 276,
+    "averagePrice": 480000,
+    "image": "/images/locations/chicago.jpg",
+    "featured": false
+  },
+  {
+    "id": "6",
+    "name": "Houston",
+    "state": "TX",
+    "propertiesCount": 321,
+    "averagePrice": 420000,
+    "image": "/images/locations/houston.jpg",
+    "featured": true
+  },
+  {
+    "id": "7",
+    "name": "Boston",
+    "state": "MA",
+    "propertiesCount": 189,
+    "averagePrice": 680000,
+    "image": "/images/locations/boston.jpg",
+    "featured": false
+  },
+  {
+    "id": "8",
+    "name": "Seattle",
+    "state": "WA",
+    "propertiesCount": 234,
+    "averagePrice": 750000,
+    "image": "/images/locations/seattle.jpg",
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "Denver",
+    "state": "CO",
+    "propertiesCount": 156,
+    "averagePrice": 520000,
+    "image": "/images/locations/denver.jpg",
+    "featured": false
+  },
+  {
+    "id": "10",
+    "name": "Philadelphia",
+    "state": "PA",
+    "propertiesCount": 198,
+    "averagePrice": 380000,
+    "image": "/images/locations/philadelphia.jpg",
+    "featured": false
+  }
+]

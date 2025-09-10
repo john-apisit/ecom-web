@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "firstName": "Marcus",
+    "lastName": "Wellington",
+    "email": "marcus.wellington@johnestate.com",
+    "phone": "555-0101",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVyc29ufGVufDB8fDB8fHwy",
+    "bio": "Experienced real estate agent with over 10 years in the luxury market. Specializing in family homes and investment properties.",
+    "specialties": ["Luxury Homes", "Family Properties", "Investment Properties"],
+    "experience": 10,
+    "rating": 4.9,
+    "propertiesCount": 45,
+    "socialMedia": {
+      "facebook": "https://facebook.com/marcuswellington",
+      "twitter": "https://twitter.com/marcuswellington",
+      "linkedin": "https://linkedin.com/in/marcuswellington",
+      "instagram": "https://instagram.com/marcuswellington"
+    }
+  },
+  {
+    "id": "2",
+    "firstName": "Sophia",
+    "lastName": "Montgomery",
+    "email": "sophia.montgomery@johnestate.com",
+    "phone": "555-0102",
+    "avatar": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29ufGVufDB8fDB8fHwy",
+    "bio": "Passionate about helping families find their dream homes. Expert in suburban properties and first-time home buyers.",
+    "specialties": ["First-time Buyers", "Suburban Homes", "Family Properties"],
+    "experience": 7,
+    "rating": 4.8,
+    "propertiesCount": 32,
+    "socialMedia": {
+      "facebook": "https://facebook.com/sophiamontgomery",
+      "linkedin": "https://linkedin.com/in/sophiamontgomery"
+    }
+  },
+  {
+    "id": "3",
+    "firstName": "Alexander",
+    "lastName": "Sterling",
+    "email": "alexander.sterling@johnestate.com",
+    "phone": "555-0103",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29ufGVufDB8fDB8fHwy",
+    "bio": "Luxury property specialist with extensive knowledge of high-end real estate markets. Focused on exceptional service.",
+    "specialties": ["Luxury Properties", "Commercial Real Estate", "International Clients"],
+    "experience": 15,
+    "rating": 5.0,
+    "propertiesCount": 78,
+    "socialMedia": {
+      "twitter": "https://twitter.com/alexandersterling",
+      "linkedin": "https://linkedin.com/in/alexandersterling",
+      "instagram": "https://instagram.com/alexandersterling"
+    }
+  },
+  {
+    "id": "4",
+    "firstName": "Isabella",
+    "lastName": "Chambers",
+    "email": "isabella.chambers@johnestate.com",
+    "phone": "555-0104",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGVyc29ufGVufDB8fDB8fHwy",
+    "bio": "Young and energetic agent specializing in modern apartments and condos. Great with millennial and Gen Z clients.",
+    "specialties": ["Modern Apartments", "Condos", "Young Professionals"],
+    "experience": 4,
+    "rating": 4.7,
+    "propertiesCount": 28,
+    "socialMedia": {
+      "facebook": "https://facebook.com/isabellachambers",
+      "instagram": "https://instagram.com/isabellachambers"
+    }
+  },
+  {
+    "id": "5",
+    "firstName": "Benjamin",
+    "lastName": "Harrington",
+    "email": "benjamin.harrington@johnestate.com",
+    "phone": "555-0105",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGVyc29ufGVufDB8fDB8fHwy",
+    "bio": "Commercial real estate expert with a background in property investment. Helping clients make smart real estate decisions.",
+    "specialties": ["Commercial Properties", "Investment Properties", "Property Management"],
+    "experience": 12,
+    "rating": 4.9,
+    "propertiesCount": 56,
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/chrismelo",
+      "twitter": "https://twitter.com/chrismelo"
+    }
+  },
+  {
+    "id": "6",
+    "firstName": "Victoria",
+    "lastName": "Fitzgerald",
+    "email": "victoria.fitzgerald@johnestate.com",
+    "phone": "555-0106",
+    "avatar": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHBlcnNvbnxlbnwwfHwwfHx8Mg%3D%3D",
+    "bio": "Dedicated to providing personalized service to each client. Expert in residential properties and relocation services.",
+    "specialties": ["Residential Properties", "Relocation Services", "Senior Housing"],
+    "experience": 8,
+    "rating": 4.8,
+    "propertiesCount": 41,
+    "socialMedia": {
+      "facebook": "https://facebook.com/ninathomas",
+      "linkedin": "https://linkedin.com/in/ninathomas"
+    }
+  }
+]
